@@ -1,4 +1,428 @@
 export const subjectDetails =[
+   {
+    "id": "23ai4pcmlg",
+    "code": "23AI4PCMLG",
+    "name": "Machine Learning",
+    "departments": ["ICB"],
+    "semester": "5",
+    "modules": [
+      {
+        "id": "m1_23ai4pcmlg",
+        "name": "Machine Learning Landscape:",
+        "url": "https://drive.google.com/file/d/1h635qAqSIkNl4nY7VT1QcTr1CMonDMNr/view?usp=drive_link"
+      },
+      {
+        "id": "m2_23ai4pcmlg",
+        "name": "Support Vector Machines:",
+        "url": "https://drive.google.com/file/d/1vCuLyWiQV00pM1GaIcx5pLfC62CZTyoh/view?usp=drive_link"
+      },
+      {
+        "id": "m3_23ai4pcmlg",
+        "name": "Probabilistic Learning",
+        "url": "https://drive.google.com/file/d/1YvzoFHWUblnaDkJcq7Szq3jFw1z7SqKf/view?usp=drive_link"
+      },
+      {
+        "id": "m4_23ai4pcmlg",
+        "name": "Ensemble Learning and Random Forests:",
+        "url": "https://drive.google.com/file/d/1EyB0ydmQ3cpYk0oF_11mPPCebzWbVcBE/view?usp=drive_link"
+      },
+      {
+        "id": "m5_23ai4pcmlg",
+        "name": "Unsupervised Learning Techniques",
+        "url": "https://drive.google.com/file/d/1ncSI3BU68FNIxci33AkcHxIos3DGijkO/view?usp=drive_link"
+      }
+    ],
+    "exams": [
+      {
+        "id": "cie1_23ai4pcmlg",
+        "name": "CIE 1",
+        "url": "https://drive.google.com/file/d/1cafEo_-wmyZi03cwOkhd7-SdkFRyoyAF/view?usp=drive_link"
+      },
+      {
+        "id": "cie2_23ai4pcmlg",
+        "name": "CIE 2",
+        "url": "https://drive.google.com/file/d/1NUOsIbwrZOm_YuAq7n1i1IqwvWYPGaZI/view?usp=drive_link"
+      },
+      {
+        "id": "cie3_23ai4pcmlg",
+        "name": "CIE 3",
+        "url": "https://drive.google.com/file/d/1qeZUPdJ6DBtZK5bEsQvwSRQCmk1I9rsV/view?usp=drive_link"
+      }
+    ],
+    "videos": []
+  },
+
+
+  {
+    "id": "cry",
+    "code": "23CS4ESCRP",
+    "name": "Cryptography",
+    "departments": ["ICB"],
+    "semester": "5",
+    "modules": [
+      {
+        "id": "m1_cry",
+        "name": "UNIT1",
+        "url": "https://drive.google.com/file/d/1SJm2Tv1Fx-ZOJz9jI43DzQUKQ3easZHJ/view?usp=drive_link"
+      },
+      {
+        "id": "m2_cry",
+        "name": "UNIT 2",
+        "url": "https://drive.google.com/file/d/1l_-ll2jljfJH2rg_tf05vAjNhTd10FfP/view?usp=drive_link"
+      },
+      {
+        "id": "m3_cry",
+        "name": "UNIT 3",
+        "url": "https://drive.google.com/file/d/1ln93ukzFuUDsvjSBdRZc7pMm54tb9Qh-/view?usp=drive_link"
+      },
+      {
+        "id": "m4_cry",
+        "name": "UNIT 4",
+        "url": "https://drive.google.com/file/d/1frbpoZXlx2_pmkpGFBTEv9qEFCkE5wAf/view?usp=drive_link"
+      },
+      {
+        "id": "m5_cry",
+        "name": "UNIT 5",
+        "url": "https://drive.google.com/file/d/1mCil6PfXeuFMFBp2aTrrreH2Xdksf5u2/view?usp=drive_link"
+      }
+    ],
+    "exams": [
+      {
+        "id": "cie3_cry",
+        "name": "CIE 3",
+        "url": "https://drive.google.com/file/d/1zU2_lErO4aCCZOk4n7-JFm50PQE0n9Hv/view?usp=drive_link"
+      },
+      {
+        "id": "see_cry",
+        "name": "SEE",
+        "url": "https://drive.google.com/file/d/1dXJSikKWl8bKnHq8rAvgRJ09gZzO6PnA/view?usp=drive_link"
+      }
+    ],
+    "videos": []
+  },
+
+
+
+  //CSE- Semester 5
+
+  {
+  "id": "OOM",
+  "code": "23CS5PCOOM ",
+  "name": "Object Oriented Modelling",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "5",
+  "modules": [
+    {
+      "id": "1",
+      "name": "UNIT1",
+      "url": "https://drive.google.com/file/d/1YV7MeQ5dsxtlqQ8YfBjhm2geRvdll2Cy/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "UNIT2",
+      "url": "https://drive.google.com/file/d/1eJDjFw697ZN9dH0Ykp1A-sy4s-t1Z_nB/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "UNIT3",
+      "url": "https://drive.google.com/file/d/1zIF3qs4ULq8R4dHWPNkBGAGwpUwznVIp/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "UNIT4",
+      "url": "https://drive.google.com/file/d/1W1pNuypW0POAMdbQ5ZChgrnyP2bYTYIH/view?usp=drive_link"
+    },
+    {
+      "id": "5",
+      "name": "UNIT5",
+      "url": "https://drive.google.com/file/d/1su7jpilG4yNUPoQ8G0DgVn3h7QEEKDV1/view?usp=drive_link"
+    }
+  ],
+  "exams": [
+    {
+      "id": "ANS",
+      "name": "ANS",
+      "url": "https://drive.google.com/file/d/1lOA2IL6zEjFOFD8s9z5-w3wRrg5Iq4dl/view?usp=drive_link"
+    }
+  ],
+  "videos": []
+},
+
+
+  {
+  "id": "aa",
+  "code": "23CS5PEAAM",
+  "name": "Advanced Algorithm",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "5",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit1",
+      "url": "https://drive.google.com/open?id=1-PMvSKZMp2mc8u3PNVAS3iV7HuWkG6x2&usp=drive_copy"
+    },
+    {
+      "id": "2",
+      "name": "Unit2",
+      "url": "https://drive.google.com/open?id=1QN-tHVKKm9wPhLZ5tcT4hjudyCvZOrpy&usp=drive_copy"
+    },
+    {
+      "id": "3",
+      "name": "Unit3",
+      "url": "https://drive.google.com/open?id=17UlSxCpaQ07Ho-XdpzeAOboRGTgsJAMD&usp=drive_copy"
+    },
+    {
+      "id": "4",
+      "name": "Unit4",
+      "url": "https://drive.google.com/open?id=1bFsjEZzIts9r9AKpETJzD6ua-Wvym3ua&usp=drive_copy"
+    },
+    {
+      "id": "5",
+      "name": "Unit5",
+      "url": "https://drive.google.com/open?id=1htDyKgIEnEOkKNlJQnFOmGm6K2TlPrPu&usp=drive_copy"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE1",
+      "url": "https://drive.google.com/open?id=1fhc7jcYM6OshgLR6PK0CX-ddUPtJaS1q&usp=drive_copy"
+    },
+    {
+      "id": "2",
+      "name": "CIE2",
+      "url": "https://drive.google.com/open?id=1TY3u85y5w4hTNFSAuLsp09SJGcoihbTz&usp=drive_copy"
+    },
+    {
+      "id": "3",
+      "name": "CIE3",
+      "url": "https://drive.google.com/open?id=12s0kSUQ1YfSO_STsSxYyN6EjRsu3AUCa&usp=drive_copy"
+    }
+  ],
+  "videos": []
+},
+
+
+  {
+  "id": "AI",
+  "code": "23CS5PCAIN ",
+  "name": "Artificial Intelligence ",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "5",
+  "modules": [
+    {
+      "id": "1",
+      "name": "UNIT1",
+      "url": "https://drive.google.com/file/d/1cvrzZk98F2R-KsmBrfXYaHVVFZBIlmkQ/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "UNIT2",
+      "url": "https://drive.google.com/file/d/1-QIyMsHfsoSUi9J5GsFsZQ9cYW4XKFXX/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "UNIT3",
+      "url": "https://drive.google.com/file/d/1okEsLkqA66KZ5A0MrPHlEcUEpeyFdAd8/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "UNIT4",
+      "url": "https://drive.google.com/file/d/1Z_4JE2kNFBgVqqeTn2dXEI7a5mM4IQ2O/view?usp=drive_link"
+    },
+    {
+      "id": "5",
+      "name": "UNIT5",
+      "url": "https://drive.google.com/file/d/1nThhxDDS5798ig1FAiG3UlmZAe6vrdT2/view?usp=drive_link"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE1",
+      "url": "https://drive.google.com/file/d/1LBlmJiEV47wqt9nLH9AYEIqmh6zDdBSp/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "CIE2",
+      "url": "https://drive.google.com/file/d/1rUGUXtcLTyIgBHWYwG-S2FKq0IfkHfr7/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "CIE3",
+      "url": "https://drive.google.com/file/d/18lMeTdfOSSxY7kQG4-AUDFExU1c7xtuC/view?usp=drive_link"
+    }
+  ],
+  "videos": []
+},
+
+  {
+  "id": "CN",
+  "code": "25CS5PCCON ",
+  "name": "Computer Network",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "5",
+  "modules": [
+    {
+      "id": "1",
+      "name": "UNIT 1",
+      "url": "https://drive.google.com/file/d/1-seNE0-IALpLJckmpVqpBMgSKcF8UBaE/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "UNIT 2",
+      "url": "https://drive.google.com/file/d/1vjlbDpfsQTVLYoq6w7iAyKgEqgXITVx2/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "UNIT 3",
+      "url": "https://drive.google.com/file/d/1nIKhp8b6D0qIVQDdZuwWGjVewiZpS6At/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "UNIT 4",
+      "url": "https://drive.google.com/file/d/16hsRG1GXbph0gbPl2ZfVwQ7yFfeIIhtb/view?usp=drive_link"
+    },
+    {
+      "id": "5",
+      "name": "UNIT 5",
+      "url": "https://drive.google.com/file/d/1ebBYWvNmUraZ5ttpXUdutWRTWEuJpY1T/view?usp=drive_link"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE1",
+      "url": "https://drive.google.com/file/d/1ehsAxCnTDflWzRAIsgrSEsBqxfv_i77F/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "CIE2",
+      "url": "https://drive.google.com/file/d/1M0d7D9qGAMz5zMjt-pKPtwNv_hZ9QmDU/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "CIE3",
+      "url": "https://drive.google.com/file/d/1cJMsp1oljhMZODeQXlFgb7tuljGxF1y7/view?usp=drive_link"
+    },
+    {
+      "id": "SEE",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/1ZGZQczzxPZuWfxsQY0Hv4mqtFExcXN7H/view?usp=drive_link"
+    }
+  ],
+  "videos": []
+},
+
+{
+  "id": "DEV",
+  "code": "23CS5PCDEV ",
+  "name": "Data Exploration and Visualization",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "5",
+  "modules": [
+    {
+      "id": "1",
+      "name": "UNIT 1",
+      "url": "https://drive.google.com/file/d/1GqN2C8oWdRZVpLndNxxRXBVQjDjNUic2/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "UNIT 2",
+      "url": "https://drive.google.com/file/d/1GaXSmcFSaqbb41_uzKx29WTwTeqZlSfO/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "UNIT 3",
+      "url": "https://drive.google.com/file/d/1rK9UTqFcbJq2JzhXYpAUuXo61NtfBGHm/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "UNIT 4",
+      "url": "https://drive.google.com/file/d/1mR29MV3jRSqS6GN1iFHa9RgEbf5d5Feh/view?usp=drive_link"
+    },
+    {
+      "id": "5",
+      "name": "UNIT 5",
+      "url": "https://drive.google.com/file/d/1YIHl0nb3DPQDHBGI9JxZaOJ1YuPOe8EN/view?usp=drive_link"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE1",
+      "url": "https://drive.google.com/file/d/1176hIVuiqxJlhEqatPdhLE4mI43Imy0f/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "CIE2",
+      "url": "https://drive.google.com/file/d/1gMU1dgbL1ZzxgArvlomxA022VojDxRhd/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "CIE3",
+      "url": "https://drive.google.com/file/d/1_YLVztly1z6BqbOvYpMV1hihKYI7VGNK/view?usp=drive_link"
+    }
+  ],
+  "videos": []
+}, 
+
+{
+  "id": "ENV",
+  "code": "23CV5HSEVS",
+  "name": "Environmental Studies",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "5",
+  "modules": [
+    {
+      "id": "1",
+      "name": "UNIT1",
+      "url": "https://drive.google.com/file/d/1ZHfqNFhSDdp--lczlqRu7PwLAVxwMv1h/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "UNIT2",
+      "url": "https://drive.google.com/file/d/1lbVyvJJRj3Vqq1eQajSSf-TthVt8fmbX/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "UNIT3",
+      "url": "https://drive.google.com/file/d/1-vIs-QR9-5zv-9rXjO2SQtJYQNn51TvP/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "UNIT4",
+      "url": "https://drive.google.com/file/d/1hxpzu3hcMIYFlwGmbrTw7UoY4k28cFBe/view?usp=drive_link"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE",
+      "url": "https://drive.google.com/file/d/13fesnS1BkX75gahWkgNCkEkDFyVvYgEV/view?usp=drive_link"
+    },
+    {
+      "id": "SEE",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/1Z6BT7yDMZ-zy3qRKL2RUKNPeHQBoAqtT/view?usp=drive_link"
+    }
+  ],
+  "videos": []
+},
+
+  // CSE - Semester 4
   {
     "id": "se",
     "code": "23CS4PCSED",
@@ -843,6 +1267,102 @@ export const subjectDetails =[
 
 
   //Semester 3 CSE
+  {
+  "id": "logic",
+  "code": "23CS3PCLOD",
+  "name": "Logic Design ",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "3",
+  "modules": [
+    {
+      "id": "m1_ld",
+      "name": "UNIT 1",
+      "url": "https://drive.google.com/file/d/1Y02F8q1vDX9MUu72YHmuhttXZ842ScbG/view?usp=sharing"
+    },
+    {
+      "id": "m2_ld",
+      "name": "UNIT 2",
+      "url": "https://drive.google.com/file/d/1AInZIof9zPgpkP6xvi4iYfDQ5eg2RGYF/view?usp=sharing"
+    },
+    {
+      "id": "m3_ld",
+      "name": "UNIT 3",
+      "url": "https://drive.google.com/file/d/1bjKn_CiKJYhROKuPk_fsfo4_FyzBbUoQ/view?usp=sharing"
+    },
+    {
+      "id": "m4_ld",
+      "name": "UNIT 4",
+      "url": "https://drive.google.com/file/d/1xAdhaKQh22rMynhaOBTK5wP8EzPbHKnb/view?usp=sharing"
+    },
+    {
+      "id": "m5_ld",
+      "name": "UNIT 5",
+      "url": "https://drive.google.com/file/d/1VS5SvWa_NMs5pxzZQkoIucKzsQd5Fklg/view?usp=sharing"
+    }
+  ],
+  "exams": [],
+  "videos": []
+},
+
+{
+  "id": "ooj",
+  "code": "23CS3PCOOJ",
+  "name": "Object Oriented Programming",
+  "departments": [
+    "CSE",
+    "ISE",
+    "ICB",
+    "AIML"
+  ],
+  "semester": "3",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit1",
+      "url": "https://drive.google.com/open?id=1DH-zy9WQO1MaNh0hA5IYAqUmRAORAe99&usp=drive_copy"
+    },
+    {
+      "id": "2",
+      "name": "Unit2",
+      "url": "https://drive.google.com/open?id=1w19B_PpbU_-XGXFu6fzdT26FRj3DAht0&usp=drive_copy"
+    },
+    {
+      "id": "3",
+      "name": "Unit3",
+      "url": "https://drive.google.com/open?id=16v3ciSF3gxxRDaNWY3mb1kBRP6QVuxwV&usp=drive_copy"
+    },
+    {
+      "id": "4",
+      "name": "Unit4",
+      "url": "https://drive.google.com/open?id=1_HGezGXf-jmRzx8twjAuan8zwPGl0bk3&usp=drive_copy"
+    },
+    {
+      "id": "5",
+      "name": "Unit5",
+      "url": "https://drive.google.com/open?id=1hN0hsRYrJXdOKcfnRvoHx-u8-zDjZ3gS&usp=drive_copy"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE1",
+      "url": "https://drive.google.com/open?id=1jwaDapLEhyVs9NcWY7q97y4x85HbxMrN&usp=drive_copy"
+    },
+    {
+      "id": "2",
+      "name": "CIE2",
+      "url": "https://drive.google.com/open?id=1lLigpopN_SE7HXw7SM6z_ChLwh67YoTY&usp=drive_copy"
+    },
+    {
+      "id": "3",
+      "name": "CIE3",
+      "url": "https://drive.google.com/open?id=1lLigpopN_SE7HXw7SM6z_ChLwh67YoTY&usp=drive_copy"
+    }
+  ],
+  "videos": []
+},
 {
   "id": "DS",
   "code": "23CS3PCDST",
@@ -1830,4 +2350,5 @@ export const subjectDetails =[
     ],
     "videos": []
   },
-]
+  
+];
