@@ -1,23 +1,13 @@
 {
   "version": 2,
-  "builds": [
+  "rewrites": [
     {
-      "src": "server.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
+      "source": "/",
+      "destination": "/api/index"
+    },
     {
-      "src": "/(.*)",
-      "dest": "/server.js"
+      "source": "/health",
+      "destination": "/api/health"
     }
-  ],
-  "functions": {
-    "server.js": {
-      "maxDuration": 10
-    }
-  },
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
 }
