@@ -142,9 +142,9 @@ export const subjectDetails =[
   ],
   "exams": [
     {
-      "id": "ANS",
-      "name": "ANS",
-      "url": "https://drive.google.com/file/d/1lOA2IL6zEjFOFD8s9z5-w3wRrg5Iq4dl/view?usp=drive_link"
+      "id": "CIE1",
+      "name": "CIE1",
+      "url": "https://drive.google.com/file/d/1CWHb_EZiPAiVfH9LruL33XnZCdLcgzC9/view?usp=drive_link",
     }
   ],
   "videos": []
