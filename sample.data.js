@@ -1518,7 +1518,7 @@ export const subjectDetails =[
     }
   ],
   "videos": []
-}
+},
   {
   "id": "coa",
   "code": "23CS3ESCOA",
