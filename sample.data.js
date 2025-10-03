@@ -1459,7 +1459,66 @@ export const subjectDetails =[
   ],
   "videos": []
 },
-
+{
+  "id": "DBMS",
+  "code": "23CS3PCDBM",
+  "name": "DBMS",
+  "departments": [
+    "CSE",
+    "ICB"
+  ],
+  "semester": "3",
+  "modules": [
+    {
+      "id": "1",
+      "name": "UNIT 1",
+      "url": "https://drive.google.com/file/d/1V_ZJIgJUhUi3fP9BqOrjIupdQRHScgw4/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "UNIT 2",
+      "url": "https://drive.google.com/file/d/1ZLOlfbAWg1cV5aYrreEwPtgBdyRZGWf8/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "UNIT 3",
+      "url": "https://drive.google.com/file/d/1XAxjxGygE_Qc83ZBHrgsUdNGb3ub4dp8/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "UNIT 4",
+      "url": "https://drive.google.com/file/d/1WijW2KlgT_HRI4M300sH7Bq91NgAAVAF/view?usp=drive_link"
+    },
+    {
+      "id": "5",
+      "name": "UNIT 5",
+      "url": "https://drive.google.com/file/d/1ed9QSkE_CLjcbt5n8sqfSgQw_UsIhcHs/view?usp=drive_link"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE 1",
+      "url": "https://drive.google.com/file/d/1w6V3nSvqB_ZwTt6VaRegDB00NSGFMZCA/view?usp=drive_link"
+    },
+    {
+      "id": "2",
+      "name": "CIE 2",
+      "url": "https://drive.google.com/file/d/1HdUFNNrAG3SaoFWkLRUmvrjjyKn7TnNV/view?usp=drive_link"
+    },
+    {
+      "id": "3",
+      "name": "CIE 3",
+      "url": "https://drive.google.com/file/d/1yJAY_yY3ZdatFbHcYnT3k2U0VTZeYV_U/view?usp=drive_link"
+    },
+    {
+      "id": "4",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/1OB1Fkr_sfzc6Q9QiVMtd6Cih7CC-BEQo/view?usp=drive_link"
+    }
+  ],
+  "videos": []
+}
   {
   "id": "coa",
   "code": "23CS3ESCOA",
