@@ -150,6 +150,11 @@ export const subjectDetails =[
       "id": "CIE2",
       "name": "CIE2",
       "url": "https://drive.google.com/file/d/1k-ihzjOKAOAvXfj9sWZgdL4mIkS-2RvB/view?usp=drive_link",
+    },
+     {
+      "id": "CIE3",
+      "name": "CIE3",
+      "url": "https://drive.google.com/file/d/1WmQJvpYwtqQmbLkH9RuZNrd-5vcOG0cf/view?usp=drive_link",
     }
   ],
   "videos": []
