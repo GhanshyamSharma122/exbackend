@@ -1,4 +1,72 @@
 export const subjectDetails =[
+
+
+  // CSE semester 6 
+
+  {
+  "id": "23cs6peads",
+  "code": "23CS6PEADS",
+  "name": "Advanced Data Structures",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1 ",
+      "url": "https://drive.google.com/file/d/1KyQH4FOBeYoN3-Bxxjsfl2-dkZpWBh3-/view"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2 ",
+      "url": "https://drive.google.com/file/d/15cSUmdkd0xDHO3CHbEWzldQD2hBnhSAN/view"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3 ",
+      "url": "https://drive.google.com/file/d/1NmWrghpNf2wCAf-vB0_LRR0T4PqL4Q1A/view"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4 ",
+      "url": "https://drive.google.com/file/d/1DeNIMOpd6mCCc7s9rGBiR-GO3Pmn-x--/view"
+    },
+    {
+      "id": "5 ",
+      "name": "Unit 5 ",
+      "url": "https://drive.google.com/file/d/1E1-_O7TtVcc89xbufDAObTmJFD2RYI1R/view"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE 1",
+      "url": "https://drive.google.com/file/d/1pcN55MYtdiUVCMVQoi2DcawEEzuN_LF9/view"
+    },
+    {
+      "id": "2",
+      "name": "CIE 2 ",
+      "url": "https://drive.google.com/file/d/1WckO4geGT5GekeCe-H26Q7kATE05fs2_/view"
+    },
+    {
+      "id": "3",
+      "name": "CIE 3 ",
+      "url": "https://drive.google.com/file/d/140cnkNp6tKIu6OOsUmT9Hj_TlCxXU4H_/view"
+    },
+    {
+      "id": "4",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/1I7KMb1H4B2KnQPNAxv5KjzKpo5YsNAoA/view"
+    }
+  ],
+  "videos": []
+},
+
+
+
+
+
    {
     "id": "23ai4pcmlg",
     "code": "23AI4PCMLG",
