@@ -52,6 +52,52 @@ export const subjectDetails =[
     "videos": []
   },
 
+  {
+  "id": "CC",
+  "code": "23CS6PCCCT",
+  "name": "Cloud Computing ",
+  "departments": [
+    "CSE",
+    "ICB"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1",
+      "url": "https://drive.google.com/file/d/1I_mIROZUL4d9fQqrS7RVN53AKwvce9WH/view?usp=sharing"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2",
+      "url": "https://drive.google.com/file/d/1i4Q9nv2vmi0j6Ipf3L4nACmCLGQdnLbM/view?usp=sharing"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3",
+      "url": "https://drive.google.com/file/d/1Yw5dmrKG2n3i8yP9XiTbUVhFrF82XSns/view?usp=sharing"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4",
+      "url": "https://drive.google.com/file/d/1a2qn1wlQGu3ZxTXNn74wY3wHNZ90S7rP/view?usp=sharing"
+    },
+    {
+      "id": "5",
+      "name": "Unit 5",
+      "url": "https://drive.google.com/file/d/1p2f1ZhGNodQ7AOWwYuc9NGUo51iqrW3E/view?usp=sharing"
+    }
+  ],
+  "exams": [
+    {
+      "id": "e1",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/1R6NDKCMauTUkOKYcd1xd3dXcGqlrmo3O/view?usp=sharing"
+    }
+  ],
+  "videos": []
+},
+
 
   {
     "id": "cry",
