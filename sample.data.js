@@ -3,6 +3,119 @@ export const subjectDetails =[
 
   // CSE semester 6 
 
+
+
+
+  
+    //BIg Data analytics
+    
+    {
+  "id": "23cs6pcbda",
+  "code": "23CS6PCBDA",
+  "name": "Big Data Analytics",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1 ",
+      "url": "https://drive.google.com/file/d/1W6-fztc8MmpepN5-rnMkG0_Y6pBix6oe/view"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2",
+      "url": "https://drive.google.com/file/d/1Py5v-RrqNcodA--M5OdslNiKA6An03xu/view"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3 ",
+      "url": "https://drive.google.com/file/d/1aYxvpmVgj5avJ58qqI11_kx5T1EHZXCb/view"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4",
+      "url": "https://drive.google.com/file/d/1XmdbD58O0I3pOhOXw0tIU7eZgslo6P2p/view"
+    },
+    {
+      "id": "5",
+      "name": "Unit 5 ",
+      "url": "https://drive.google.com/file/d/1Bkq1WFFlBAJZr-nUcwSPPQOiCBY6BQjQ/view"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE 1 ",
+      "url": "https://drive.google.com/file/d/11PinIAnmL2XFyRgqa014Txf-wOv-vg4g/view"
+    },
+    {
+      "id": "2",
+      "name": "CIE 2",
+      "url": "https://drive.google.com/file/d/1dVKNhjUDviUPYgxX_Yl3fe8SiVbfNoX_/view"
+    },
+    {
+      "id": "3",
+      "name": "CIE 3 ",
+      "url": "https://drive.google.com/file/d/1iIjcSTCrinty1Th49odYnjMNKIuKJbXA/view"
+    }
+  ],
+  "videos": []
+},
+
+
+
+
+    //Cloud computing 
+
+    {
+  "id": "23cs6pccct",
+  "code": "23CS6PCCCT",
+  "name": "Cloud Computing",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1 ",
+      "url": "https://drive.google.com/file/d/1I_mIROZUL4d9fQqrS7RVN53AKwvce9WH/view"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2",
+      "url": "https://drive.google.com/file/d/1i4Q9nv2vmi0j6Ipf3L4nACmCLGQdnLbM/view"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3 ",
+      "url": "https://drive.google.com/file/d/1Yw5dmrKG2n3i8yP9XiTbUVhFrF82XSns/view"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4 ",
+      "url": "https://drive.google.com/file/d/1a2qn1wlQGu3ZxTXNn74wY3wHNZ90S7rP/view"
+    },
+    {
+      "id": "5",
+      "name": "Unit 5",
+      "url": "https://drive.google.com/file/d/1p2f1ZhGNodQ7AOWwYuc9NGUo51iqrW3E/view"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/1R6NDKCMauTUkOKYcd1xd3dXcGqlrmo3O/view"
+    }
+  ],
+  "videos": []
+},
+
+
+  // ADS 
   {
   "id": "23cs6peads",
   "code": "23CS6PEADS",
