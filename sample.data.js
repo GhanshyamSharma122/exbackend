@@ -4,6 +4,154 @@ export const subjectDetails =[
   // CSE semester 6 
 
 
+  //RMI 
+
+  {
+  "id": "23cs6aerml",
+  "code": "23CS6AERML",
+  "name": "Research Methodology and IPR",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1",
+      "url": "https://drive.google.com/file/d/17U0L07C35I_FppSiMqD9H6jQMf0X1BXt/view"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2",
+      "url": "https://drive.google.com/file/d/1xuoNBHe4yyhBqHuy3EZbLcFeP8ws4Ihe/view"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3",
+      "url": "https://drive.google.com/file/d/1m2afFlAtx15uMEqeNPvvC9Kvc2gRYOtP/view"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4",
+      "url": "https://drive.google.com/file/d/1SZR_AqslFc3U2Fb5NBAVVR_rRMjAqYFw/view"
+    },
+    {
+      "id": "5",
+      "name": "Unit 5",
+      "url": "https://drive.google.com/file/d/1DOBPaIrjL9fQDiB92XCfv4vqP-xZDgzE/view"
+    }
+  ],
+  "exams": [],
+  "videos": []
+},
+
+
+      //Block chain 
+
+      {
+  "id": "23cs6peblc",
+  "code": "23CS6PEBLC",
+  "name": "Blockchain Technology",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1",
+      "url": "https://drive.google.com/file/d/1TmwKbzJg26fjb33-lf8mXxk5mCDII-7E/view"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2",
+      "url": "https://drive.google.com/file/d/1SUix1Ecpvy_1ZwB0emVokheN_r77DzzH/view"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3",
+      "url": "https://drive.google.com/file/d/1hMuAJLOXh9YtU86U5Ak8RiCUGSs52sXW/view"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4",
+      "url": "https://drive.google.com/file/d/12CwwfB1YbvPhxORW5JGmkM-fCMJRb-MK/view"
+    },
+    {
+      "id": "5",
+      "name": "Unit 5",
+      "url": "https://drive.google.com/file/d/1D9UJXB_WHaMv_EdQFCJQSO0zLQDnk7bC/view"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE 2",
+      "url": "https://drive.google.com/file/d/1hmd0pvLFDToeWSD81o9WQRSAYkLWrPsx/view"
+    }
+  ],
+  "videos": []
+},
+
+
+
+  //machine learning 
+
+  {
+  "id": "23cs6pcmal",
+  "code": "23CS6PCMAL ",
+  "name": "Machine Learning",
+  "departments": [
+    "CSE"
+  ],
+  "semester": "6",
+  "modules": [
+    {
+      "id": "1",
+      "name": "Unit 1",
+      "url": "https://drive.google.com/file/d/1DS7fGsnlJHl2jjT_TLtcyCAwkMkNqGGR/view"
+    },
+    {
+      "id": "2",
+      "name": "Unit 2 ",
+      "url": "https://drive.google.com/file/d/1dcsbW0tb1BXepmJA2pEfDB0Sh0nrcgZS/view"
+    },
+    {
+      "id": "3",
+      "name": "Unit 3",
+      "url": "https://drive.google.com/file/d/1RvPo18yTDdO0Wmtehd0hJDVq51CwXzQn/view"
+    },
+    {
+      "id": "4",
+      "name": "Unit 4",
+      "url": "https://drive.google.com/file/d/1oNLLQIA5vP-kcqjEsYxceufFBsxHr_WN/view"
+    },
+    {
+      "id": "5",
+      "name": "Unit 5",
+      "url": "https://drive.google.com/file/d/1e2qXxOw56mWpaLQ4TL2i5kmmjRc6bFBV/view"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "CIE 2",
+      "url": "https://drive.google.com/file/d/1vf2djcRyDg1MsTS5MqeIAz6DpvjptE93/view"
+    },
+    {
+      "id": "2",
+      "name": "CIE 3",
+      "url": "https://drive.google.com/file/d/1gxdy23CsBrGF3shZQB_GYQXwdmrzL72c/view"
+    },
+    {
+      "id": "3",
+      "name": "SEE",
+      "url": "https://drive.google.com/file/d/17RET4cR5Uf_a65SdKer5O9v3eyyKojmm/view"
+    }
+  ],
+  "videos": []
+},
+
 
 
   
